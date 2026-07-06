@@ -1,7 +1,7 @@
 # AetherArena submission manifest (ADR-149 §2.2).
 # Accompanies a model artifact pushed to the AA Hugging Face Space.
 # This file is the contract the Space validates before quarantine + scoring.
-
+Suraj Kumar 
 [submission]
 # Free-form display name shown on the leaderboard.
 name = "my-spatial-model"
